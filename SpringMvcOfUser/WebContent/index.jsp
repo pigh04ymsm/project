@@ -16,4 +16,6 @@
 <body style = "margin-top:100px; margin-left:600px;">
 <a href = "${pageContext.request.contextPath}/user/list"><button type="button" class="btn">Enter</button></a>
 </body>
+
+
 </html>
